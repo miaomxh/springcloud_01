@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_coustomer" />
+        <module name="springcloud_entity" />
+        <module name="springcloud_eureka" />
+        <module name="springcloud_product" />
+        <module name="springcloud_product2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
